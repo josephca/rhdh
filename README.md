@@ -1,6 +1,5 @@
 # Red Hat Developer Hub (RHDH)
 
-
 [0]: https://quay.io/repository/rhdh-community/rhdh
 [0]: https://quay.io/repository/rhdh/rhdh-hub-rhel9
 
